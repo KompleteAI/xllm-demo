@@ -5,7 +5,7 @@ from xllm.datasets.base import BaseDataset
 from xllm.types import RawSample
 from xllm import enums
 
-from demo_xllm.core.config import DemoXLLMConfig
+from xllm_demo.core.config import DemoXLLMConfig
 
 
 class AntropicDataset(BaseDataset):

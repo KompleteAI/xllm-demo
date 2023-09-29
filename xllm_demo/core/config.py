@@ -2,7 +2,7 @@ from dataclasses import dataclass, field
 
 from xllm.core.config import HuggingFaceConfig
 
-from demo_xllm.core.constants import DATASET_KEY
+from xllm_demo.core.constants import DATASET_KEY
 
 
 @dataclass
