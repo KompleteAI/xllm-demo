@@ -1,7 +1,6 @@
 from tqdm import tqdm
 import datasets
 
-from xllm.core.config import HuggingFaceConfig
 from xllm.datasets.base import BaseDataset
 from xllm.types import RawSample
 from xllm import enums
